@@ -28,6 +28,6 @@ resource "aws_s3_bucket" "example" {
   acl    = "private"
 }
 resource "aws_s3_bucket" "example2" {
-  bucket = "NewdemoshoibS3"
+  bucket = "newdemoshoibS3"
   acl    = "private"
 }
